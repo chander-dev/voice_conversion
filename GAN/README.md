@@ -10,3 +10,6 @@ generated/try_1 will have all generated audio
 models checkpoint will be in checkpoints 
 
 Change model hyperparameter at hparam.py and it will reflect in all other necessary files automatically. 
+
+link to paper
+https://ieeexplore.ieee.org/document/8063435/
