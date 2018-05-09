@@ -9,6 +9,8 @@ features dir will have the all alingned features in npy array
 generated/try_1 will have all generated audio
 models checkpoint will be in checkpoints 
 
+open evaluation_notebook.ipynb, it will make evaluation more clear and interactive
+
 Change model hyperparameter at hparam.py and it will reflect in all other necessary files automatically. 
 
 link to paper
